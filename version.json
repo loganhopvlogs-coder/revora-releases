@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "checksum": "489106e84293c4c87a376f791c1c7a88bf93b9301ef71690a1d1f72f6f772a58",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.0/Revora-1.1.0.zip",
-  "notes": "Test update — checking update system",
+  "version": "1.1.1",
+  "checksum": "0ee3110091ce7c8cdef1ad5e63b4dac8450ac47f978e101bdd7899c999d62d5f",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.1/Revora-1.1.1.zip",
+  "notes": "Faster CDP connection, improved Chrome startup on new devices",
   "required": false
 }
