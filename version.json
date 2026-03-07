@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "checksum": "d98afd756ae2b0b66847dec96bad64c1cf0e92a39630607814195ccb8f0de01c",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.2/Revora-1.1.2.zip",
-  "notes": "Fixed alerts, recent ads, version display and update banner",
-  "required": false
+  "version": "1.1.3",
+  "checksum": "17c09b44a5798b46b871fc02d6a4368ea409ff5eae8c204d219d0ad42efc6081",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.3/Revora-1.1.3.zip",
+  "notes": "Fixed agent killing coworker Chrome instances",
+  "required": true
 }
