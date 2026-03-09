@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "checksum": "97f8c0c962d1f252b6f1ffdc8549b9eaef88ef9bd0afc8730358acdd86d1af9a",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.8/Revora-1.1.8.zip",
-  "notes": "Restored base64 photo handling, batch uploads, and House of Cars description template",
+  "version": "1.1.9",
+  "checksum": "f5c451a353b5501008dcc092ea0eac41cbd9b4796e610a9dadae7f01b6ddda2b",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.9/Revora-1.1.9.zip",
+  "notes": "Fixed vehicle type dropdown, model double-space, restored 1.1.1 form fill logic",
   "required": true
 }
