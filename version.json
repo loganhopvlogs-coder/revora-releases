@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "checksum": "6f717e76cc39629b8ea38090515c29741f25fe1c5635beb839575de1e25af548",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.0/Revora-1.2.0.zip",
-  "notes": "Fixed scrollToVisible missing, vehicle type dropdown, model spacing",
+  "version": "1.2.1",
+  "checksum": "e88b67a076de94ccf7e6c101bf6a01e6c43bf0adb7e7a49887c4b8a56dc5d906",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.1/Revora-1.2.1.zip",
+  "notes": "Rebuilt from 1.1.1 base — run helper, page load, photos, form fill all restored",
   "required": true
 }
