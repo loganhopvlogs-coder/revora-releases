@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "checksum": "fd0c86f3bb5ba152fa8302c8965ba2f557439d109d80290d6b156e3243a4cb70",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.5/Revora-1.1.5.zip",
-  "notes": "Fixed Chrome kill syntax error, version display, and update banner",
+  "version": "1.1.6",
+  "checksum": "cf6c17582c2c23c1635b7404d215bad75c81cdc34360e8c171bf7b6091b7fbc9",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.6/Revora-1.1.6.zip",
+  "notes": "Fixed description template, photos now pull directly from DB if missing",
   "required": true
 }
