@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "checksum": "cf6c17582c2c23c1635b7404d215bad75c81cdc34360e8c171bf7b6091b7fbc9",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.6/Revora-1.1.6.zip",
-  "notes": "Fixed description template, photos now pull directly from DB if missing",
+  "version": "1.1.8",
+  "checksum": "97f8c0c962d1f252b6f1ffdc8549b9eaef88ef9bd0afc8730358acdd86d1af9a",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.1.8/Revora-1.1.8.zip",
+  "notes": "Restored base64 photo handling, batch uploads, and House of Cars description template",
   "required": true
 }
