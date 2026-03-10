@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
-  "checksum": "b34c44ef508d3ea9c235b85dcd484ac63a5ca7791faf4fa97b5041f9514529da",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.3/Revora-1.2.3.zip",
-  "notes": "Smart vehicle type detection — make + model prefix lookup with class fallback",
+  "version": "1.2.4",
+  "checksum": "40379758735f75b344fefdb19d5e658ce66fc7385105ec5e539be1ec85356dec",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.4/Revora-1.2.4.zip",
+  "notes": "AES-256-GCM encryption on all local data — session and machine files are now machine-locked",
   "required": true
 }
