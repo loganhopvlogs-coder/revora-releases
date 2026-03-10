@@ -1,7 +1,7 @@
 {
-  "version": "1.2.6",
-  "checksum": "89732138540ab96f7c3b887f9eaaf77eef43c384429cb6d37d3fef2ccfa6ea08",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.6/Revora-1.2.6.zip",
-  "notes": "Fixed encryption splash — only shows on first boot after security upgrade, no more black screen",
+  "version": "1.2.7",
+  "checksum": "9068f9b89f404e5034ca5d5f7e113aae60b24561e4afeb7b5c0b3fab7988b1d5",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.7/Revora-1.2.7.zip",
+  "notes": "Security upgrade — AES-256 encryption on all local data. One-time re-login required.",
   "required": true
 }
