@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "checksum": "40379758735f75b344fefdb19d5e658ce66fc7385105ec5e539be1ec85356dec",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.4/Revora-1.2.4.zip",
-  "notes": "AES-256-GCM encryption on all local data — session and machine files are now machine-locked",
+  "version": "1.2.5",
+  "checksum": "a9e324d787993e79c082350668a2a021bde16e64f115ecb99accc27653d508ee",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.5/Revora-1.2.5.zip",
+  "notes": "Encryption onboarding splash — guides reps through one-time re-login after security upgrade",
   "required": true
 }
