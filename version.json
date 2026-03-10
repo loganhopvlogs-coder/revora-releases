@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "checksum": "a9e324d787993e79c082350668a2a021bde16e64f115ecb99accc27653d508ee",
-  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.5/Revora-1.2.5.zip",
-  "notes": "Encryption onboarding splash — guides reps through one-time re-login after security upgrade",
+  "version": "1.2.6",
+  "checksum": "89732138540ab96f7c3b887f9eaaf77eef43c384429cb6d37d3fef2ccfa6ea08",
+  "url": "https://github.com/loganhopvlogs-coder/revora-releases/releases/download/v1.2.6/Revora-1.2.6.zip",
+  "notes": "Fixed encryption splash — only shows on first boot after security upgrade, no more black screen",
   "required": true
 }
